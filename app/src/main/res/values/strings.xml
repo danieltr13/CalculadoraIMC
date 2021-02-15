@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">asignacion04_calculadora_IMC</string>
+    <string name="estatura">Estatura(Metros)</string>
+    <string name="peso">Peso(Kg)</string>
+    <string name="calcularIMC">Calcular IMC</string>
+    <string name="resultado">Resultado</string>
+    <string name="rango">Rango</string>
+</resources>
